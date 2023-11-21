@@ -1,0 +1,11 @@
+#touch-region {
+    height: 200px;
+    background: #ddd;
+ }
+ 
+ .circle {
+    margin: 2px;
+    padding: 4px;
+    display: inline-block;
+    border-radius: 100%;
+ }
