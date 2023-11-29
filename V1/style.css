@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container
+{
+    position: relative;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container .icon
+{
+    width: 200px;
+}
+.container .icon path
+{
+    fill: transparent;
+    stroke-width: 2;
+}
+.container .icon.star path
+{
+    stroke-dasharray: 1169;
+    stroke-dashoffset: 1169;
+}
+.container .icon.star:hover path
+{
+    animation: animate-star 2s linear forwards
+}
+@keyframes animate-star
+{
+    0%{
+          stroke-dashoffset: 0;
+      }
+    40%
+      {
+          stroke-dashoffset: 2338;
+      }
+    40%
+      {
+          stroke-dashoffset: 2338;
+          fill: transparent;
+      }
+    20%
+      {
+          stroke-dashoffset: 2338;
+          fill: #31e8ff;
+          fill: #ff31b0;
+      }
+}
