@@ -8,7 +8,11 @@
 
 
 #### verkfni4
-###### https://www.youtube.com/watch?v=qDbMvsbejCM
+##### https://github.com/efatruth/vidmot4/settings/pages
+##### https://efatruth.github.io/vidmot4/
+
+
+##### https://www.youtube.com/watch?v=qDbMvsbejCM
 #### [V4](V4)
 
 ##### [V3](V3)
