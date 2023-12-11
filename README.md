@@ -2,6 +2,7 @@
 
 #### verkefni1
 #### https://github.com/efatruth/-FORR3FVO5EU/settings/pages
+##### https://efatruth.github.io/vidmot1/
 
 #### verkefni3
 #### [https://github.com/efatruth/FORR3FVO5EU--V3/tree/main](https://github.com/efatruth/FORR3FVO5EU--V3/tree/main)
