@@ -1,7 +1,7 @@
 # -FORR3FVO5EU
 
 #### verkefni1
-#### https://github.com/efatruth/-FORR3FVO5EU/settings/pages
+#### https://github.com/efatruth/vidmot1/tree/main/docs
 ##### https://efatruth.github.io/vidmot1/
 
 #### verkefni3
