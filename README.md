@@ -3,6 +3,7 @@
 #### verkefni1
 #### https://github.com/efatruth/vidmot1/tree/main/docs
 ##### https://efatruth.github.io/vidmot1/
+##### https://github.com/efatruth/vidmot1/settings/pages
 
 #### verkefni3
 #### [https://github.com/efatruth/FORR3FVO5EU--V3/tree/main](https://github.com/efatruth/FORR3FVO5EU--V3/tree/main)
