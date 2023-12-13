@@ -18,9 +18,9 @@
 ##### https://efatruth.github.io/vidmot4/
 
 ##### Lokaverkfni5
-Lokaverkefni5_viðmótsforritun
-Höfundar: Livinus Felix Bassey
-Áfanga: Siðasta verkefni í viðmótsforritun.
+      <h2>Höfundar: Livinus Felix Bassey</h2>
+      <p>Áfanga: Siðasta verkefni í viðmótsforritun.</p>
+      <p>Skóla: Tölvubraut í upplýsingartækniskólanum.</p>
 
 Skóla: Tölvubraut í upplýsingartækniskólanum.
 
