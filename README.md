@@ -18,9 +18,9 @@
 ##### https://efatruth.github.io/vidmot4/
 
 ##### Lokaverkfni5
-      <h2>Höfundar: Livinus Felix Bassey</h2>
-      <p>Áfanga: Siðasta verkefni í viðmótsforritun.</p>
-      <p>Skóla: Tölvubraut í upplýsingartækniskólanum.</p>
+<h2>Höfundar: Livinus Felix Bassey</h2>
+<p>Áfanga: Siðasta verkefni í viðmótsforritun.</p>
+<p>Skóla: Tölvubraut í upplýsingartækniskólanum.</p>
 <h2>Verkefnalýsing</h2>
       <p><pre>Ég byrjaði að setja allt saman sem hafði verið pantað og fikta við,það vekur áhuga minn
         að fikta með LED fylki þar sem það birtist eins og gaman 
