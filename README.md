@@ -18,22 +18,25 @@
 ##### https://efatruth.github.io/vidmot4/
 
 ##### Lokaverkfni5
-      Höfundar: Livinus Felix Bassey
-      Áfanga: Siðasta verkefni í viðmótsforritun.
-      Skóla: Tölvubraut í upplýsingartækniskólanum.
+Lokaverkefni5_viðmótsforritun
+Höfundar: Livinus Felix Bassey
+Áfanga: Siðasta verkefni í viðmótsforritun.
 
-      Verkefnalýsing
-      <p><pre>Ég byrjaði að setja allt saman sem hafði verið pantað og fikta við,það vekur áhuga minn
+Skóla: Tölvubraut í upplýsingartækniskólanum.
+
+Verkefnalýsing
+Ég byrjaði að setja allt saman sem hafði verið pantað og fikta við,það vekur áhuga minn
         að fikta með LED fylki þar sem það birtist eins og gaman 
-        að sýna með <a href="https://github.com/hzeller/rpi-rgb-led-matrix">safninu eins og
-        Henner Zeller gerði</a> fyrir svona led matrix og Raspberry pi. Jafnvel þó ég hafi verið að reyna
-        að skilja hvernig það virkar.</pre><pre> Það tók nokkurn tíma að finna góðar stillingar sem virkuðu vel
+        að sýna með safninu eins og
+        Henner Zeller gerði fyrir svona led matrix og Raspberry pi. Jafnvel þó ég hafi verið að reyna
+        að skilja hvernig það virkar.
+ Það tók nokkurn tíma að finna góðar stillingar sem virkuðu vel
         með nákvæmlega þessum spjöldum vegna þess að þau eru mjög ólík en með rgb box kynningu tókst mér
         að stjórna því í lokin og það virkaði mjög vel. Þetta verkefni hefði gengið mjög vel. Langt en ég hafði
-        frekar takmarkaðan tíma fyrir þetta allt.</pre><pre> Ég skrifaði mitt eigið forrit sem notar bókasafnið þegar ég byrjaði að fikta.
+        frekar takmarkaðan tíma fyrir þetta allt.
+ Ég skrifaði mitt eigið forrit sem notar bókasafnið þegar ég byrjaði að fikta.
         það eru nokkuð góð demo eftir Henner Zeller eins og eitthvað dæmi um texta sem fer yfir á alls kyns vegu
         og rgb kubbinn sem snýst í hringi.
-      </p>
 
 
 
