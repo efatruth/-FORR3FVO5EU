@@ -18,6 +18,28 @@
 ##### https://efatruth.github.io/vidmot4/
 
 ##### Lokaverkfni5
+Lokaverkefni5_viðmótsforritun
+Höfundar: Livinus Felix Bassey
+Áfanga: Siðasta verkefni í viðmótsforritun.
+
+Skóla: Tölvubraut í upplýsingartækniskólanum.
+
+Verkefnalýsing
+Ég byrjaði að setja allt saman sem hafði verið pantað og fikta við,það vekur áhuga minn
+        að fikta með LED fylki þar sem það birtist eins og gaman 
+        að sýna með safninu eins og
+        Henner Zeller gerði fyrir svona led matrix og Raspberry pi. Jafnvel þó ég hafi verið að reyna
+        að skilja hvernig það virkar.
+ Það tók nokkurn tíma að finna góðar stillingar sem virkuðu vel
+        með nákvæmlega þessum spjöldum vegna þess að þau eru mjög ólík en með rgb box kynningu tókst mér
+        að stjórna því í lokin og það virkaði mjög vel. Þetta verkefni hefði gengið mjög vel. Langt en ég hafði
+        frekar takmarkaðan tíma fyrir þetta allt.
+ Ég skrifaði mitt eigið forrit sem notar bókasafnið þegar ég byrjaði að fikta.
+        það eru nokkuð góð demo eftir Henner Zeller eins og eitthvað dæmi um texta sem fer yfir á alls kyns vegu
+        og rgb kubbinn sem snýst í hringi.
+
+
+
 ##### https://efatruth.github.io/Vidmot5/
 ##### https://github.com/efatruth/Vidmot5/tree/main/docs
 ##### https://github.com/efatruth/Vidmot5/settings/pages
@@ -26,3 +48,4 @@
 ##### [V2](V2)
 ##### [V3](V3)
 ##### [V4](V4)
+##### [V5](V5)
