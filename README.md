@@ -32,7 +32,7 @@
         með nákvæmlega þessum spjöldum vegna þess að þau eru mjög ólík en með rgb box kynningu tókst mér
         að stjórna því í lokin og það virkaði mjög vel. Þetta verkefni hefði gengið mjög vel. Langt en ég hafði
         frekar takmarkaðan tíma fyrir þetta allt.
- Ég skrifaði mitt eigið forrit sem notar bókasafnið þegar ég byrjaði að fikta.
+ Ég skrifaði mitt eigið forrit sem notar bókasafnið þegar ég byrjaði að fikta.<br>
         það eru nokkuð góð demo eftir Henner Zeller eins og eitthvað dæmi um texta sem fer yfir á alls kyns vegu
         og rgb kubbinn sem snýst í hringi.
 
