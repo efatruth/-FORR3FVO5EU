@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo ./text-example -f ../fonts/6x10.bdf --led-chain=2 --led-rows=64 --led-cols=64 --led-pwm-lsb-nanoseconds 70 -C 255,255,255

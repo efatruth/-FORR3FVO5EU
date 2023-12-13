@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo ./demo -t 15 --led-chain=2 --led-rows=64 --led-cols=64 -D 0 --led-pwm-lsb-nanoseconds 70
