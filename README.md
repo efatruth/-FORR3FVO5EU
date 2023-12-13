@@ -23,7 +23,7 @@
       Skóla: Tölvubraut í upplýsingartækniskólanum.
 
       Verkefnalýsing
-      <p><pre>Ég byrjaði að setja allt saman sem hafði verið pantað og fikta við,það vekur áhuga minn
+        Ég byrjaði að setja allt saman sem hafði verið pantað og fikta við,það vekur áhuga minn
         að fikta með LED fylki þar sem það birtist eins og gaman 
         að sýna með <a href="https://github.com/hzeller/rpi-rgb-led-matrix">safninu eins og
         Henner Zeller gerði</a> fyrir svona led matrix og Raspberry pi. Jafnvel þó ég hafi verið að reyna
@@ -33,7 +33,7 @@
         frekar takmarkaðan tíma fyrir þetta allt.</pre><pre> Ég skrifaði mitt eigið forrit sem notar bókasafnið þegar ég byrjaði að fikta.
         það eru nokkuð góð demo eftir Henner Zeller eins og eitthvað dæmi um texta sem fer yfir á alls kyns vegu
         og rgb kubbinn sem snýst í hringi.
-      </p>
+
 
 
 
